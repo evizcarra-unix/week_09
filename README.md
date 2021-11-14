@@ -9,13 +9,27 @@ Due to the program being a testing environment, this ensures the possibility of 
 # Cloud Database
 
 Firebase is the cloud database currently in play with this testing environmnet. It's a platform developed by Google to creating mobile and web application. It helps build and run those apps successfully. App development is accelarated with a fully manage backend infrastructure. Several features are the following:
-**Build**                  **Release & Monitor**       **Engage**
-* Authentication           * App Distribution          * Cloud Messaging
-* Cloud Firestore          * Crashlytics               * Predictions
-* Storage                  * Performance               * Remote Config
-* Hosting                  * Test Lab                  * A/B Testing
-* Machine Learning                                     * Dynamic Links
-* Realtime Database                                    * In-App Messaging
+**Build**
+* Authentication
+* Cloud Firestore
+* Storage
+* Hosting
+* Machine Learning
+* Realtime Database
+
+**Release & Monitor**
+* App Distribution
+* Crashlytics
+* Performance
+* Test Lab
+
+**Engage**
+* Cloud Messaging
+* Predictions
+* Remote Config
+* A/B Testing
+* Dynamic Links
+* In-App Messaging
 
 The structure to the database is a mix of auto identifiers and set names. At first, there will be a People category in which contains either unique identifiers or random ones. Throughout this, we have information of a person with their name, age, employed, and residence.
 
