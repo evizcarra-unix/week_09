@@ -9,6 +9,7 @@ Due to the program being a testing environment, this ensures the possibility of 
 # Cloud Database
 
 Firebase is the cloud database currently in play with this testing environmnet. It's a platform developed by Google to creating mobile and web application. It helps build and run those apps successfully. App development is accelarated with a fully manage backend infrastructure. Several features are the following:
+
 **Build**
 * Authentication
 * Cloud Firestore
