@@ -4,7 +4,7 @@ This program is more of a testing environment integrated with a cloud database. 
 
 Due to the program being a testing environment, this ensures the possibility of integrating an actual database of either employees within a company or a complex library containing books with their brief info.
 
-[Software Demo Video](http://404-page.html)
+[Software Demo Video](https://youtu.be/fyNMMHaRUVQ)
 
 # Cloud Database
 
