@@ -45,7 +45,6 @@ Program contains a main.py and a JSON file for testing purposes.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Firebase Get Started](https://firebase.google.com/docs/firestore/quickstart)
 * [An Intro to Cloud Databases](https://www.oreilly.com/library/view/an-introduction-to/9781492044857/ch01.html)
 * [Get Started w/ Firebase using Python](https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/)
